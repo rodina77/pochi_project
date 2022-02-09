@@ -1,17 +1,13 @@
 # pochi_project
 <html lang="en">
-
 <head>
     <meta charest=""UTF-8>
 <title>Pochi</title>
 </head>
-
 <body>
-
     <div>
           <h1>Pochi the cat</h1>
     </div>
-
     <div>
 <table>
     <tr>
@@ -24,11 +20,9 @@
         the apartment parking lot </li>
         <li><i>hidden talent - </i> Karaoke </li>
       </ul>
-     
     </td>
       <td><img src="326587883.jpg" alt="cat in Chania" width="250" height="250"></td>
     </tr>
-    
     <td><h2>Links</h2>
     <ul>
         <li><a href="https://www.seattle.gov/animalShelter " target="blank" >Seattle Animal Control Shelter </a></li>
